@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/ilkerteymur",
+  "homepage": "https://github.com/ilkerteymur/My-Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

@@ -30,7 +30,7 @@ export const data: TypeMyData[] = [
     id: 3,
     title: "React - Youtube Clone",
     img_url: `${Youtube}`,
-    link: "https://github.com/muratavci05/reactjs_hospital-automation-app",
+    link: "https://github.com/ilkerteymur/Youtube-Clone",
     gitHub: "https://github.com/ilkerteymur/Youtube-Clone",
   },
   {
@@ -75,14 +75,14 @@ export const data: TypeMyData[] = [
     title: "React | NasaSpace APP",
     img_url: `${NasaSpace}`,
     link: "https://reactjs-nasa-app.netlify.app",
-    gitHub: "https://github.com/muratavci05",
+    gitHub: "",
   },
   {
     id: 10,
     title: "React | Recibe APP",
     img_url: `${RecibeApp}`,
     link: "https://reactjs-recibe-app.netlify.app",
-    gitHub: "https://github.com/muratavci05",
+    gitHub: "",
   },
 ];
 
