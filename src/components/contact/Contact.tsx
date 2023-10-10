@@ -11,6 +11,7 @@ const Contact = () => {
   const serviceId: string | undefined = process.env.REACT_APP_MY_SERVICE;
   const templateId: string | undefined = process.env.REACT_APP_MY_TEMPLATE;
   const publicKey: string | undefined = process.env.REACT_APP_MY_PUBLIC_KEY;
+  console.log(serviceId, templateId, publicKey);
 
   const method: string = "POST";
   const url: string = "https://api.emailjs.com/api/v1.0/email/send";
