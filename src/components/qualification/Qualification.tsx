@@ -55,7 +55,7 @@ const Qualification: React.FC = () => {
               }
             >
               {/* GRP 1 */}
-              <div className="qualification__data">
+              {/* <div className="qualification__data">
                 <div>
                   <h3 className="qualififaction__title">FSMU</h3>
                   <span className="qualification__subtitle">
@@ -70,9 +70,9 @@ const Qualification: React.FC = () => {
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>
                 </div>
-              </div>
+              </div> */}
               {/* GRP 2 */}
-              <div className="qualification__data">
+              {/* <div className="qualification__data">
                 <div></div>
                 <div>
                   <span className="qualifaction__rounder"></span>
@@ -87,9 +87,9 @@ const Qualification: React.FC = () => {
                     <i className="uil uil-calender"></i>
                   </div>
                 </div>
-              </div>
+              </div> */}
               {/* GRP 3 */}
-              <div className="qualification__data">
+              {/* <div className="qualification__data">
                 <div>
                   <h3 className="qualififaction__title">
                     Digital Marketing Specialist
@@ -106,7 +106,7 @@ const Qualification: React.FC = () => {
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>
                 </div>
-              </div>
+              </div> */}
               {/* GRP 4 */}
               <div className="qualification__data">
                 <div></div>
@@ -179,7 +179,7 @@ const Qualification: React.FC = () => {
                 </div>
               </div>
               {/* GRP 7 */}
-              <div className="qualification__data">
+              {/* <div className="qualification__data">
                 <div>
                   <h3 className="qualififaction__title">Freelancer</h3>
                   <span className="qualification__subtitle">
@@ -194,7 +194,7 @@ const Qualification: React.FC = () => {
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>
                 </div>
-              </div>
+              </div> */}
               {/* GRP 8 */}
               <div className="qualification__data">
                 <div></div>

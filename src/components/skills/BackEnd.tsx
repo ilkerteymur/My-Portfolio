@@ -11,11 +11,10 @@ const BackEnd: React.FC = () => {
             <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Node Js</h3>
-              <span className="skills__level">Beginner</span>
             </div>
           </div>
           {/*  */}
-         {/*  <div className="skills__data">
+          {/*  <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Python</h3>
@@ -41,7 +40,7 @@ const BackEnd: React.FC = () => {
         {/* ====== */}
         <div className="skills__group">
           {/*  */}
-         {/*  <div className="skills__data">
+          {/*  <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">PostgreSQL</h3>
@@ -61,7 +60,6 @@ const BackEnd: React.FC = () => {
             <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Firebase</h3>
-              <span className="skills__level">Intermediate</span>
             </div>
           </div>
           {/* <div className="skills__data">

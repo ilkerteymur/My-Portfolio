@@ -16,8 +16,8 @@ export const data: TypeMyData[] = [
     id: 1,
     title: "React + TS Portfolio",
     img_url: `${Portfolio}`,
-    link: "https://muratavci05.github.io/my-portfolio/",
-    gitHub: "https://github.com/muratavci05",
+    link: "https://ilker-portfolio.netlify.app/",
+    gitHub: "https://github.com/ilkerteymur/My-Portfolio",
   },
   {
     id: 2,
